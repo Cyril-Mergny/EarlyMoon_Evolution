@@ -1,0 +1,40 @@
+---ORBITAL-PARAMETERS---
+nbr_of_loops	500
+timestep(My)	1e-5
+a(inRearth)	20
+Eccentricity	0.1
+---SATELLITE-GEOMETRY---
+satRad(km)	1738d3
+rcore(km)		350d3
+rast(km)		120d3
+rmagma(km)		120d3
+rcrust(km)		5d3
+n_layers	50 50 50 500 0
+---PLAN/SAT-PROPERTIES---
+planRad 6371d3
+planMass	5.972d24
+satMass	7.34767309d22
+planSpin 7.292e-5
+satMoIr	0.397
+planMoIr	0.331
+planQ_1 0.0755
+klovePlan 0.298
+---SATELLITE-RHEOLOGY---
+etacrust_base	1e18
+eta_mant	1e19
+eta_core	0
+K_crust	200e9
+K_mant	200e9
+K_core	200e9
+mu_crust	65e9
+mu_mant	60e9
+mu_core	0
+lambdadiff	3
+Cp_crust	1000
+--------MISC--------
+Tsurf	280
+Tbase	1300
+nrj_activation	300000
+
+
+
