@@ -7,7 +7,7 @@ Thermodynamic and orbital evolution of the early Moon
 3. Run the command line " ./main.sh " on your terminal 
 
 You may need to change permissions to run the main.sh file, to do so use the chmod "+rwx main.sh" command.
-Once the simulation finished, outputs will be delivered in the form of .txt files. You may open the jupyter notebooks "draw_Tprofile" and "draw_structure" in the draw_profiles folder, to get a visual plot of this data.
+Once the simulation is finished, outputs will be delivered in the form of .txt files. You may open the jupyter notebooks "draw_Tprofile" and "draw_structure" in the draw_profiles folder, to get a visual plot of this data.
 
 
 You can change the parameters of the simulation by modifying the input_parameters.in file. Most common changes are:
