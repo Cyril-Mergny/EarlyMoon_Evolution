@@ -20,6 +20,6 @@ You can change the parameters of the simulation by modifying the input_parameter
 
 - a,e the initial orbit of the Moon. If values are chosen to close to the Earth, overheating of the crust may occurs and cause flaws in the simulation.
 
-If you have any question, do not hesitate to contact me.
+If you have any question, please do not hesitate to contact me.
 
-
+https://github.com/Cyril-Mergny/EarlyMoon_Evolution
